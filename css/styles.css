@@ -61,8 +61,21 @@ main {
     nav ul {
     flex-direction: column;
     }
-    
+
     main {
     padding: 16px;
     }
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
